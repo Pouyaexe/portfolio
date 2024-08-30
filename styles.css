@@ -21,6 +21,20 @@ body {
     box-sizing: border-box;
 }
 
+.flag-icon {
+    width: 35px; /* Adjust size as needed */
+    height: auto;
+    margin-right: 0px;
+    vertical-align: middle; /* Align with text for better spacing */
+}
+
+.availability {
+    color: #666;
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+
 .content {
     flex-grow: 1;
     display: flex;
